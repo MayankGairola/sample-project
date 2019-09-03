@@ -4,3 +4,5 @@ this is the branch commit
 final commit from the master.
 
 This is the third line.
+
+fifth line from the master:
